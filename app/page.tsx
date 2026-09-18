@@ -183,7 +183,7 @@ export default function Home() {
 
           <div className="relative min-h-[420px] overflow-hidden rounded-3xl border border-black/10 bg-[#111] shadow-[0_28px_90px_rgba(0,0,0,0.22)] sm:min-h-[560px] lg:min-h-[660px]">
             <Image
-              src="/about.PNG"
+              src="/about.png"
               alt="Mohammed Shamnas seated on a stone bench in a garden"
               fill
               sizes="(min-width: 1280px) 552px, (min-width: 1024px) 45vw, calc(100vw - 48px)"
@@ -617,7 +617,7 @@ export default function Home() {
 
           <div className="relative isolate aspect-[4/5] min-w-0 overflow-hidden rounded-lg border border-white/10 bg-[#111516] sm:aspect-square lg:aspect-[4/5]">
             <Image
-              src="/contact.PNG"
+              src="/contact.png"
               alt="Mohammed Shamnas seated in an office wearing a suit and sunglasses"
               fill
               sizes="(min-width: 1280px) 568px, (min-width: 1024px) calc((100vw - 144px) / 2), calc(100vw - 48px)"
